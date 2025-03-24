@@ -135,7 +135,7 @@ body {
 /* HERO SECTION */
 .hero {
   height: 100vh;
-  background-image: url('Aestethic Shoppping.jpeg);
+  background-image: url('Aestethic Shoppping.jpeg');
   background-size: cover;
   background-position: center;
   display: flex;
